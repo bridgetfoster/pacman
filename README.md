@@ -1,3 +1,3 @@
-# pacman
+# Pacman
 
-Pacman game
+Clasic pacman game using Javascript
